@@ -4,7 +4,7 @@
 
 <h1 align="center">Rokii</h1>
 <h4 align="center">Productivity booster for Windows</h4>
-<p align="center"><a href="https://github.com/RokiiApp/.github/releases/download/1.0.0-alpha.1/Rokii_1.0.0-alpha.1.exe">Download Alpha Version</a></p>
+<p align="center"><a href="https://github.com/RokiiApp/.github/releases/download/1.0.0-alpha.2/Rokii_1.0.0-alpha.2.exe">Download Alpha Version</a></p>
 
 ## Installation
 
@@ -20,10 +20,11 @@ Be sure you download Rokii from the [official release link](https://github.com/R
 ## Features
 
 - 🚀 Compatibility with Cerebro Plugins
+- 🧪 Experimental support for Script and Command extensions
 
 ## Development
 
-For now Rokii only supports the Cerebro plugin system. But a completely new system is being developed (inspired in Raycast extensions).
+For now Rokii fully supports the Cerebro plugin system. But a completely new system is being developed (inspired in Raycast extensions).
 If you are willing to create a plugin based on Cerebro system, take a look at the packages available on the [developers repo](https://github.com/RokiiApp/developers). 
 
 ## Screenshots
