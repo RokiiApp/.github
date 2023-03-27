@@ -29,8 +29,8 @@ If you are willing to create a plugin based on Cerebro system, take a look at th
 
 ## Screenshots
 <p align="center">
-<img width="480px" src="https://user-images.githubusercontent.com/77246331/224577822-2ec5d511-444c-4978-a60e-5c769dac53a0.png" />
-<img width="480px" src="https://user-images.githubusercontent.com/77246331/224578030-d4d581fc-1c3b-4f10-9c36-27b9d7de359a.png" />
+<img width="470px" src="https://user-images.githubusercontent.com/77246331/228022733-a94ac2e3-8dd6-4af4-83cf-bc4890876518.png" />
+<img width="470px" src="https://user-images.githubusercontent.com/77246331/224578030-d4d581fc-1c3b-4f10-9c36-27b9d7de359a.png" />
 </p>
 
 > Rokii was inspired by [Raycast](https://www.raycast.com/) and [Cerebro](https://www.cerebroapp.com/).
