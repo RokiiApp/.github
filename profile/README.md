@@ -4,7 +4,7 @@
 
 <h1 align="center">Rokii</h1>
 <h4 align="center">Productivity booster for Windows</h4>
-<p align="center"><a href="https://github.com/RokiiApp/.github/releases/download/1.0.0-alpha.2/Rokii_1.0.0-alpha.2.exe">Download Alpha Version</a></p>
+<p align="center"><a href="https://dubisdev.gumroad.com/l/RokiiApp">Get the Alpha Version</a></p>
 
 ## Installation
 
