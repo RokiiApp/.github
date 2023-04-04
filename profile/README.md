@@ -13,7 +13,7 @@
 
 ## Screenshots
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77246331/228192071-eceefc8c-e052-4423-b10a-59fc667252fc.gif" />
+<img src="https://raw.githubusercontent.com/RokiiApp/.github/main/assets/rokii.gif" />
 <img width="470px" src="https://user-images.githubusercontent.com/77246331/228022733-a94ac2e3-8dd6-4af4-83cf-bc4890876518.png" />
 <img width="470px" src="https://user-images.githubusercontent.com/77246331/224578030-d4d581fc-1c3b-4f10-9c36-27b9d7de359a.png" />
 </p>
