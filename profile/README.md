@@ -20,12 +20,7 @@
   <a href="https://github.com/RokiiApp/app/releases/latest">
     🔗 Download Rokii
   </a>
-    &nbsp; | &nbsp; Give it a Star ⭐ | &nbsp;
-    <a href="https://www.buymeacoffee.com/dubisdev">Support the project 🤝</a>
-    &nbsp; | &nbsp;
-    <a href="https://twitter.com/intent/tweet?text=I%27m%20using%20%23Rokii%20-%20A%20productivity%20booster%20for%20windows.%20%20Download%20it%20here:%20%20https://rokii.app">
-      📢 Share it on 𝕏
-    </a>
+    &nbsp; | &nbsp; Give it a Star ⭐
 </p>
 
 <hr />
